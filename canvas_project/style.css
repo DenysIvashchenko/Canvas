@@ -1,0 +1,25 @@
+* {
+    font-family: 'arial black',Helvetica,verdana
+    monospace,sans-serif;
+    letter-spacing: 0.2rem;
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    overflow: hidden;
+}
+
+body {
+    position: absolute;
+}
+canvas#canvas {
+    display: block;
+    background: #00222B;
+
+}
+h1 {
+    background: black;
+   
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+}
